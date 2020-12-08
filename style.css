@@ -1,0 +1,112 @@
+.section{
+    text-align: center;
+    float: center;
+}
+.new{
+    margin-top:50px;
+    padding-bottom:100px;
+    text-align: center;
+    border-bottom: 0.5px solid rgb(95, 58, 58);
+}
+
+.box{
+    text-align: center;
+    display: inline-block;
+    font-size: 12px;
+    color: rgb(77, 76, 76);
+    font-family: sans-serif;
+}
+.white{
+    text-align:center;
+}
+.pic1{
+    margin-top: 40px;
+    margin-right: 150px;
+    text-align:left;
+    font-size: 9px;
+    color: rgb(44, 44, 44);
+    font-family: sans-serif;
+    display: inline-block;
+
+}
+.pic2{
+    margin-top: 40px;
+    margin-left: 150px;
+    text-align:center;
+    display: inline-block;
+
+}
+.about{
+    text-align:center;
+    margin-top:100px;
+    margin-bottom: 100px;
+}
+.garment{
+    display: inline-block;
+    text-align:center;
+    font-size: 12px;
+    color: rgb(44, 44, 44);
+    font-family: sans-serif;
+}
+.about2{
+    text-align:center;
+    margin-top: 50px;
+    margin-bottom:100px;
+}
+.garment2{
+    display: inline-block;
+    text-align:center;
+    font-size: 12px;
+    color: rgb(44, 44, 44);
+    font-family: sans-serif;
+}
+.about3{
+    text-align:center;
+    margin-top: 50px;
+    margin-bottom:200px;
+}
+.garment3{
+    display: inline-block;
+    text-align:center;
+    font-size: 12px;
+    color: rgb(44, 44, 44);
+    font-family: sans-serif;
+}
+.navbar {
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+
+  }
+.navbar a {
+    color: rgb(100, 100, 100);
+    padding-top: 15px;
+    padding-bottom:15px;
+    padding-right: 65px;
+    padding-left:65px;
+    margin: none;
+    text-decoration: none;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    font-size: 13px;
+  }
+  
+  .navbar a:hover {
+    background-color:rgb(255, 97, 97);
+    color: rgb(43, 41, 41);
+  }
+  .right{
+    margin-top: 50px;
+    float: center;
+    text-align: center;
+    font-size: 7px;
+    font-family: sans-serif;
+    color: rgb(131, 126, 126)
+  }
+.first{
+    margin-bottom: none;
+    text-align: center;
+}
+.table{
+    text-align:center;
+}
